@@ -6,5 +6,6 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="repo_practica" />
     <orderEntry type="module" module-name="ADMINISTRACION_RIESGOS" />
+    <orderEntry type="module" module-name="PORTAFOLIOS_2025" />
   </component>
 </module>
