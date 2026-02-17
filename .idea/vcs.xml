@@ -4,6 +4,7 @@
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../../7MO SEMESTRE/PORTAFOLIOS_2025" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../ADMINISTRACION_RIESGOS" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/../repo_practica" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../P2-Algorithmic-Trading-Systems" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../PAP_P2026" vcs="Git" />
   </component>
 </project>

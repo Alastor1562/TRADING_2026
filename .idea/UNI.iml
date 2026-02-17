@@ -4,8 +4,9 @@
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="jdk" jdkName="Python 3.13" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="repo_practica" />
     <orderEntry type="module" module-name="ADMINISTRACION_RIESGOS" />
     <orderEntry type="module" module-name="PORTAFOLIOS_2025" />
+    <orderEntry type="module" module-name="P2-Algorithmic-Trading-Systems" />
+    <orderEntry type="module" module-name="PAP_P2026" />
   </component>
 </module>

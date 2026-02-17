@@ -3,9 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/../ADMINISTRACION_RIESGOS/.idea/ADMINISTRACION_RIESGOS.iml" filepath="$PROJECT_DIR$/../ADMINISTRACION_RIESGOS/.idea/ADMINISTRACION_RIESGOS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../P2-Algorithmic-Trading-Systems/.idea/P2-Algorithmic-Trading-Systems.iml" filepath="$PROJECT_DIR$/../P2-Algorithmic-Trading-Systems/.idea/P2-Algorithmic-Trading-Systems.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PAP_P2026/.idea/PAP_P2026.iml" filepath="$PROJECT_DIR$/../PAP_P2026/.idea/PAP_P2026.iml" />
       <module fileurl="file://$PROJECT_DIR$/../../7MO SEMESTRE/PORTAFOLIOS_2025/.idea/PORTAFOLIOS_2025.iml" filepath="$PROJECT_DIR$/../../7MO SEMESTRE/PORTAFOLIOS_2025/.idea/PORTAFOLIOS_2025.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/UNI.iml" filepath="$PROJECT_DIR$/.idea/UNI.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../repo_practica/.idea/repo_practica.iml" filepath="$PROJECT_DIR$/../repo_practica/.idea/repo_practica.iml" />
     </modules>
   </component>
 </project>
